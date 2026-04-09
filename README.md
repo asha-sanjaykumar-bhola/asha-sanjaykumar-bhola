@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asha-sanjaykumar-bhola
-- 👀 I’m interested in topics related to Business Intelligence, Artificial Intelligence, and Blockchain
+- 👀 I’m interested in topics related to Business Intelligence, Artificial Intelligence, Data Analytics, and Blockchain
 - 🌱 I’m currently pursuing my undergraduate course on Computer Science
 - 📫 How to reach me: LinkedIn- www.linkedin.com/in/asha-bhola
 - 😄 Pronouns: she/her
